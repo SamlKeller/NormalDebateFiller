@@ -1,0 +1,15 @@
+#centerDiv {
+    margin: 21% auto auto auto;
+}
+
+#mainTitle {
+    text-align: center;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+#subtitle {
+    color: grey;
+    text-align: center;
+    margin: auto;
+}
